@@ -1,8 +1,8 @@
 "use client"
 // pages/app/api/add-dns-record.js
 import React from 'react';
-import Header from './components/header';
-import Footer from './components/footer';
+import Header from '/components/header';
+import Footer from '/components/footer';
 import AddDNSRecordForm from '/app/api/AddDNSRecordForm'; // Adjust the path according to your file structure
 
 export default function AddDNSRecordPage() {
